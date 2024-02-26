@@ -1,0 +1,4 @@
+public class odemo1
+{
+ int a = 7;
+}
